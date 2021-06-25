@@ -8,11 +8,13 @@ and can help us make better decisions when formulating press releases, tweets an
 
 This project focuses on basic feature extraction that can help us better understand movie descriptions and textual data.
 
-Some of the questions I tried to answer were whether long movie descriptions automatically indicate long movies.
+Some of the questions I tried to answer were whether the length of a movie description can give us some insights into the duration of the movie.
+For example, does a long movie description mean the movie is longer? 
 I also applied the Bag-of-Words method to count how often different words appear in the description of dramas and horror movies of highly rated movies. 
 
 **How is this useful?**
 
-With the influx of tv shows and movies on Netflix and other streaming services, producers have to make though decisions on what scripts promise a high return and ratings. Natural Language Processing can help us to identify popular themes within the movie descriptions and contribute to improved decision making.
+With the influx of tv shows and movies on Netflix and other streaming services, producers have to make though decisions on what scripts to select and send into production.
+Natural Language Processing can help us to identify popular themes of dramas, horror movies etc. This approach can contribute to improved decision-making. 
 
-The results are quite intriguing! :)
+
